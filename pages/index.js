@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>mozin, teste</h1>
+    return <h1>mozin, muita coisa ainda está por vir, novas pessoas, novos lugares e novos desafios, mas especialmente um desafio muito grande para você para mim... quando percebi que o "nós" aconteceu novamente, isso me encheu de felicidade, apesar de não expressar tãooooo bem isso, você precisa saber que é a realidade! com tudo a nossa volta acontecendo, o tempo passando e diminuindo ainda mais o tempo de companhia com alguém, o medo de perder essa pessoa e perde esse "nós" me toma literalmente todos os dias, acho que isso é normal né... é o sentimento real de amar e temer perder algo, só que acima de tudo, o sentimento de felicidade de conquista o de ver quem amamos feliz, ele supera o medo e nos dá força para superar esse temos, é assim que eu me sinto, temos pouco mais de 10 dias, isso pra mim é assustador kkkkkk imagina eu não poder te irritar mais? vai ser realmente possível isso por 2 anos? eu quero acreditar que sim, não sei de nada o que pode nos reservar no futuro, mas quero que saiba que sempre vou apoiar suas decisões, talvez questione kkkkk mas no fundo eu apoio, sempre estarei do seu lado, mesmo que na diferença de 4 horas, e eu sempre te amarei, assim como sempre foi e é inevitável kkkkkkkkkkkkkkkkkkkk eu me orgulho muito de você! te amo!</h1>
 }
 
 export default Home;
